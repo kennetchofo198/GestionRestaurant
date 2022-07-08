@@ -1,8 +1,53 @@
 
+*{
+    margin: 0px;
+}
+
 #navheader{
     margin-top: 10px;
 }
 .imageheight{
-    height: 400px;
+    height: 568px;
 
+}
+
+/* ....................................css du footer  ..............................................*/
+footer{
+    height: 400px;
+    width: 100%;
+    background-color:#055160;
+    margin-top: 131px;
+}
+.footergauche{
+    position: relative;
+    top: -7px;
+    margin-left: 34px;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 135px;
+
+}
+.div1{
+    display: flex;
+    position: relative;
+    top: 12px;
+
+
+}
+.p{
+    margin-left: 25px;
+}
+
+.m{
+    margin: 8px;
+}
+.top{
+    position: relative;
+    top: 8px;
+}
+.titre{
+    font-size: 1.3em;
 }
